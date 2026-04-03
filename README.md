@@ -1,5 +1,5 @@
-# ⚡ Aravind Kumar
-**CS Undergrad @ Shiv Nadar University** | **AI Builder** | **Problem Solver**
+#  Aravind Kumar S
+**CS Undergrad @ Shiv Nadar University** | **Building Scalable AI & Backend Systems** | **Problem Solver**
 
 <p align="left">
   <a href="https://www.linkedin.com/in/aravind-kumar-s-3b5302210/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
